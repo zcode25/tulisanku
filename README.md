@@ -1,2 +1,0 @@
-# tulisanku
-Web Tulisanku
