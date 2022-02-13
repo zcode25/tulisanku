@@ -6,6 +6,7 @@ This repository is an example of a portfolio.
 - CSS
 - JavaScript
 - Framework Bootstrap
+- Owl Carousel 2
 
 ## My Instagram
 - [@azein25](https://www.instagram.com/azein25/) 
